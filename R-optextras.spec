@@ -4,7 +4,7 @@
 #
 Name     : R-optextras
 Version  : 2016.8.8
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/optextras_2016-8.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/optextras_2016-8.8.tar.gz
 Summary  : Tools to Support Optimization Possibly with Bounds and Masks
