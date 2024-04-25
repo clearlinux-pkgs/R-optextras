@@ -4,7 +4,7 @@
 #
 Name     : R-optextras
 Version  : 2019.12.4
-Release  : 42
+Release  : 43
 URL      : https://cran.r-project.org/src/contrib/optextras_2019-12.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/optextras_2019-12.4.tar.gz
 Summary  : Tools to Support Optimization Possibly with Bounds and Masks
